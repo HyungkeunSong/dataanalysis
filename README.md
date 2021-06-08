@@ -1,2 +1,2 @@
 # dataanalysis
-codes for data analysis
+sample codes
