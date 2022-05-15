@@ -3,7 +3,6 @@ title: "Survey 데이터 효율적으로 분석하여 인사이트 도출하기"
 slug: survey-data-anlaysis
 category: Etc
 author: "송형근"
-thumbnail: ../../../assets/season2_thumbnail.png
 tags: ["DataAnalysis","Survey"]
 date: 2022-05-15
 ---
